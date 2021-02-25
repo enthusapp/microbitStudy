@@ -5,6 +5,9 @@ microbit 공부하기
 https://makecode.microbit.org/
 
 ## 자료실
+### Open Source
+https://microbit.org/get-started/user-guide/open-source/
+
 ### BBC microbit
 https://github.com/bbcmicrobit
 

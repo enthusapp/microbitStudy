@@ -5,7 +5,11 @@ microbit 공부하기
 https://makecode.microbit.org/
 
 ## 자료실
+### BBC microbit
 https://github.com/bbcmicrobit
+
+### MS makecode
+https://github.com/microsoft/pxt-microbit
 
 ## Troubleshooting
 ### WebUSB 로 microbit 와 연결하기

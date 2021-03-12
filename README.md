@@ -5,6 +5,9 @@ microbit 공부하기
 https://makecode.microbit.org/
 
 ## 자료실
+### 184 개의 프로젝트
+https://www.hackster.io/microbit/projects?sort=respected
+
 ### Open Source
 https://microbit.org/get-started/user-guide/open-source/
 

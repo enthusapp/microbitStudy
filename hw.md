@@ -2,6 +2,8 @@
 
 ## 로봇
 ### 라인트레이서
+https://www.devicemart.co.kr/goods/view?no=10824340
+
 https://www.devicemart.co.kr/goods/view?no=12518681
 
 #### 저가형

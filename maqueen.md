@@ -9,3 +9,6 @@ https://makecode.microbit.org/84044-00148-02418-17864
 
 ## PAD
 https://makecode.microbit.org/11323-44175-46200-23192
+
+## Extension Upgrade
+https://makecode.microbit.org/extensions
